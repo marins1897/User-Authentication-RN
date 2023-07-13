@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_KEY = 'AIzaSyCejWXZOZSIN1bg7Te3MZ-Z2SEV66GFhnc';
+const API_KEY = 'jesi-mislio';
 
 // signUp and signIn URL are just diffrent in their string/name 
 // accept it as parameter and use one functon to send a request to 2 different URL
